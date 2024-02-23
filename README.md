@@ -11,5 +11,6 @@ O projeto utiliza uma notação específica para descrever as relações químic
  1 hidrogenio -> 1 weasleyium
  3 aquatronium 4 weasleyium -> 1 ouro
   ![Exemplo](https://github.com/MykellyBarros/CaminhamentoDFS/blob/master/digrafo.png)
-
+> [!Relações presentes na pasta testes]
+> O projeto utiliza uma notação específica para descrever as relações químicas entre elementos. Cada linha representa uma reação química, onde os elementos à esquerda da seta produzem os elementos à direita. As reações são divididas pelo delimitador `' -> '`.
 
